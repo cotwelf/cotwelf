@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi I'm xiuwen 👋
+
+<a href="javascript: void 0;">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=cotwelf&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,issues" />
+</a>
+<br/>
+<a href="javascript: void 0;">
+  <img  align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cotwelf&theme=tokyonight&layout=compact" />
+</a>
 
 <!--
 **cotwelf/cotwelf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
