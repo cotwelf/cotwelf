@@ -8,6 +8,10 @@
   <img  align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cotwelf&theme=tokyonight&layout=compact" />
 </a>
 
+### I'm learning React
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cotwelf&repo=plansann)](https://github.com/cotwelf/plansann)
+
+
 <!--
 **cotwelf/cotwelf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
